@@ -1,0 +1,28 @@
+input {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  width: 300px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+ul {
+  border: 1px solid #999;
+  border-top-width: 0;
+  list-style: none;
+  margin-top: 0;
+  max-height: 143px;
+  overflow-y: auto;
+  padding-left: 0;
+  width: calc(300px + 1rem);
+  font-family: "Times New Roman", Times, serif;
+}
+
+li {
+  padding: 0.3rem;
+}
+
+li:hover {
+  background-color: #3196f7;
+  color: #fff;
+  cursor: pointer;
+}

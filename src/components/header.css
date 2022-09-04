@@ -1,0 +1,11 @@
+.title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  margin-bottom: 1em;
+  background-color: #3196f7;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+}
